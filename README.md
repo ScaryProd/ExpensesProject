@@ -2,7 +2,11 @@
 
 This project's goal is to make an expense tracker for myself, since they might be getting out of control
 
-## Development server
+## Server
+
+To run the express server, go to the backend folder and execute `npm start`
+
+## Front
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
@@ -11,6 +15,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 This is a project that I plan to customize and add personal features, so this list might be updated from time to time
 
 ## Expense adder screen
+
+### Amount
+
+Amount spent in number
 
 ### Category 
 

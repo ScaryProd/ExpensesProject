@@ -1,6 +1,7 @@
 {
   "name": "expenses-project",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "Project to log expenses",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,6 +10,7 @@
     "test": "ng test"
   },
   "private": true,
+  "type": "module",
   "dependencies": {
     "@angular/animations": "^15.0.0",
     "@angular/common": "^15.0.0",
@@ -22,6 +24,7 @@
     "@popperjs/core": "^2.11.6",
     "bootstrap": "^5.2.3",
     "bootstrap-icons": "^1.10.4",
+    "express": "^4.18.2",
     "ngx-bootstrap": "^6.2.0",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
